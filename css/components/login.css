@@ -1,0 +1,23 @@
+.login-container {
+    margin: 0 auto;
+    text-align: right;
+    width: 23%;
+    margin-top: 6%;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    padding: 0 20px;
+    box-shadow: 3px 3px #b2afaf;
+    Padding-bottom: 20px;
+  }
+  p.register{
+    text-align: center;
+    margin-top: 10px;
+    }
+    p.register span{
+      color:rgba(59, 89, 153, 1);
+      font-weight:bold;
+     
+    }
+    p.register span:hover{
+      text-decoration: underline;
+    
+    }

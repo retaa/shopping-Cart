@@ -1,0 +1,52 @@
+/* --- Google Fonts ---*/
+
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
+/* @import url("https://fonts.googleapis.com/css?family=Cardo|Frank+Ruhl+Libre|Philosopher"); */
+
+/* --- Components design --- */
+@import url("components/register.css");
+@import url("components/login.css");
+@import url("components/header.css");
+/* @import url("components/menu.css"); */
+@import url("components/index.css");
+@import url("components/footer.css");
+@import url("components/slider.css");
+@import url("components/item.css");
+
+/*@import url("components/dropdown.css");
+
+@import url("components/card.css");
+@import url("components/badge.css");
+
+@import url("components/banner.css");
+@import url("components/tabs.css");
+
+@import url("components/list.css"); */
+
+/* --- Fonts --- */
+
+body {
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+  background-color: #F4F8F9;
+  box-sizing: border-box;
+  /* margin-bottom: 200px; */
+
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", "sans-serif";
+}
+
+.text-center{
+  text-align: center;
+}
+a{
+  text-decoration: none !important;
+}
+ul{
+  list-style-type: none;
+}
+
+
